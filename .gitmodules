@@ -1,0 +1,3 @@
+[submodule ".chords-processor"]
+	path = .chords-processor
+	url = git://github.com/rosenfeld/chords-processor.git
